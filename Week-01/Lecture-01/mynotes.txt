@@ -1,0 +1,10 @@
+(Prototypal inheritance)
+- Object inherit from another object
+
+(Introspection Vs Reflection)
+- introspection: ability to examine properties at run-time.
+- Reflection: ability to manipulate properties at run-time.
+
+(Multithreading Vs Concurrency)
+- Multithreading: ablitiy for a single process to process two of more tasks concurrently.
+- Concurrency: *need understanding*. 
